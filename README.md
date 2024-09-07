@@ -80,7 +80,7 @@ To run the Professional Calculator, navigate to the `Professional-Calculator` di
 
 1.  Clone this repository:
 
-    git clone https://github.com/Quicksilver0lab/calculator.git
+    git clone https://github.com/Quicksilver0lab/Adv-Calculator.git
 
 2.  Navigate to the Desired Calculator Directory: Change into the directory of the calculator you want to use. For example, to navigate to the Simple Calculator directory:
 
